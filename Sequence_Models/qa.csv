@@ -1,0 +1,615 @@
+	Query
+0	bag
+1	Fendi handbag
+2	Fendi beige handbag
+3	backpacks
+4	black backpacks
+5	blue bucket bag
+6	bucketbag
+7	crocodile print bag
+8	animal print bag
+9	tote bag
+10	totes
+11	FURLA pochette
+12	red CELINE crossbody 
+13	Coach work bag
+14	pink coccinelle bum bag
+15	belt bag
+16	Burberry duffel bag
+17	faux leather wallet
+18	pale pink wallet
+19	Floral print midi dress
+20	red sheath dress
+21	little black dress
+22	yellow short sleeve mini dress
+23	burgundy crewneck dress
+24	crew neck dress
+25	Off Shoulder Dress
+26	A line dress
+27	animal print dress
+28	leopard print dress
+29	lace dress
+30	shirt dress
+31	 striped knee length dress
+32	full sleeve dress
+33	shift sack dress
+34	maison margiela long dress
+35	polka dot mini dress
+36	needle & thread black dress
+37	flared dress
+38	 DRESS
+39	red off shoulder midi dress
+40	alberta ferreti dress
+41	black maxi dress
+42	Bodycon dress
+43	Alice Mccall midi dress
+44	strapless dress
+45	yellow dress
+46	reem acra maxi dress
+47	Halterneck Dress
+48	a line v neck dress
+49	alexander mcqueen midi dress
+50	Denim dress
+51	military green jacket
+52	TOMMY HILFIGER blue jacket
+53	armani leather jacket
+54	one shoulder jumpsuit
+55	black High-rise skinny jeans
+56	black skinny jeans
+57	distressed ankle length jeans
+58	light wash wide leg jeans
+59	bootcut jeans
+60	distressed denim shorts
+61	khaki shorts
+62	denim mini skirts
+63	printed  jumpsuits
+64	red one shoulder jumpsuit
+65	short sleeve playsuit
+66	romper
+67	polka dot blouse
+68	Brandon Maxwell Blouse
+69	black full sleeve blouse
+70	short sleeve bodysuit
+71	diesel bodysuit
+72	full sleeve crop top
+73	NORMA KAMALI bralette
+74	checked shirt
+75	brunello cucinelli shirt
+76	white T-shirt 
+77	Tshirt
+78	white graphic print tshirt
+79	MOSCHINO white graphic tshirt
+80	scoop neck T-shirt
+81	printed camisole
+82	black ribbed tank
+83	off shoulder printed  top 
+84	Gucci sweatshirt
+85	long sleeve green blouse
+86	polo shirt
+87	halter neck top
+88	MARNI tube top
+89	yellow DIOR sweater
+90	VALENTINO sweater
+91	maison margiela beige argyle jumper
+92	white full sleeve cardigan
+93	full sleeve silk blouse
+94	crepe blouse
+95	turtle neck sweater
+96	turtleneck sweater
+97	cashmere sweater
+98	one shoulder sweater
+99	printed skinny jeans
+100	FRAME dark wash jeans
+101	straight leg jeans
+102	 black jeans
+103	cargo pants
+104	printed palazzo pants
+105	grey checked wide leg pants
+106	givenchy leather pants
+107	brown slim fit trousers
+108	floral print leggings
+109	striped pants
+110	blue straight leg pants
+111	checked mini skirt
+112	ISABEL MARANT Skirt
+113	printed yellow skirt
+114	checked midi skirt
+115	sequinned skirt
+116	Bottega Venetta leather skirt
+117	solid black maxi skirt
+118	retro printed flared skirt
+119	pencil skirt
+120	Balmain shorts
+121	balenciaga white shorts
+122	knee length shorts
+123	Miguelina Shorts
+124	printed shorts
+125	solid black shorts
+126	bomber jackets
+127	vegan leather jacket
+128	leather biker jacket
+129	quilted down jacket
+130	MONCLER jacket
+131	red blazer
+132	printed blazer
+133	armani black blazer
+134	silk kimono
+135	balmain tan jacket
+136	PU Coats
+137	animal print coat
+138	faux fur coats
+139	phillip lim overcoat
+140	hooded coat
+141	Theory light grey coat
+142	nike black leggings
+143	Blue sports bra
+144	norma kamali bikini bottom
+145	onepiece swimsuit
+146	moschino swimsuit
+147	Bandeau bikini top
+148	green  bikini top
+149	one shoulder bikini top
+150	animal print bikini bottoms
+151	swim briefs
+152	red bikini bottoms
+153	coverups
+154	Beach dresses
+155	bracelet
+156	tory burch bracelet
+157	rose gold cuff bracelet
+158	gold cuff bracelet
+159	hoop earrings
+160	silver ear cuff
+161	diamond earrings
+162	maison margiela silver earrings
+163	stud earrings
+164	lanvin Necklace
+165	gold and pearl choker
+166	blue necklace
+167	just cavalli gold necklace 
+168	sterling silver necklace
+169	CHLOE ring
+170	 gold ring
+171	Gucci watch
+172	versace silver watch
+173	Anklet
+174	titlee brooch
+175	sleeveless bodysuit
+176	strapless bra
+177	calvin klein white bra
+178	purple lace bra
+179	Calvin Klein briefs
+180	red gstring
+181	BlueBella briefs
+182	La perla hotpants
+183	tommy hilfiger black slip
+184	Carine Gilson bustier
+185	 stockings
+186	 Paul Smith socks
+187	stella mcartney vest
+188	pajama top
+189	prada sleepwear 
+190	pajama pants
+191	pajama set
+192	robe
+193	nightdress
+194	sleeveless nightdress
+195	pink sleeveless undershirt
+196	 leather belt
+197	GUCCI belt
+198	brown belt
+199	ISABEL MARANT belts
+200	black gloves
+201	leather gloves
+202	hat
+203	beanie
+204	fedora
+205	bucket hats
+206	straw hat
+207	cap
+208	cat eye sunglasses
+209	Prada  sunglasses
+210	aviators
+211	round frame sunglasses
+212	floral print scarf
+213	knitted scarf
+214	Chloe wallet
+215	Valentino pouch
+216	givenchy pumps
+217	nude sandals
+218	gold sandals
+219	fuschia mules
+220	brown stilleto
+221	brown boots
+222	suede over the knee boots
+223	Gianvito Rossi boots
+224	peep toe heels
+225	black ankle length boots
+226	Jimmy Choo flats
+227	blue loafers
+228	espadrille wedges
+229	open toe flat sandals
+230	BALENCIAGA sneakers
+231	BALENCIAGA blue sneakers
+232	black hightop sneakers
+233	wedge sandals
+234	red heels
+235	combat boots
+236	Aquazzura high heels
+237	Aquazzura stiletto
+238	open toe stilleto
+239	CULT GAIA sandals
+240	pink  pumps
+241	
+242	
+243	
+244	
+245	men BALENCIAGA denim shirt
+246	men BALENCIAGA checked shirt
+247	men BALENCIAGA red shirt
+248	men ETRO green polo shirt
+249	men ETRO polo shirt
+250	men solid blue tshirt
+251	men VERSUS VERSACE graphic print tshirt
+252	men OFF WHITE blue full sleeve tshirt
+253	men MARNI solid red sweatshirt
+254	men LANVIN black hooded sweatshirt
+255	men beige jumper
+256	men MISSONI colourblock jumper
+257	men PRADA Black sleeveless sweater
+258	men DIOR HOMME yellow striped turtleneck sweater
+259	men graphic printed cardigan
+260	men Dolce & Gabbana green cardigan
+261	men polka dot dress pants
+262	
+263	
+264	
+265	
+266	
+267	
+268	
+269	
+270	
+271	
+272	
+273	ottoman
+274	round ottoman
+275	faux leather round ottoman
+276	
+277	sculpture
+278	buddha sculpture
+279	red buddha sculpture
+280	
+281	sofa set
+282	3 piece sofa set
+283	Abbyson 3 piece sofa set
+284	
+285	sofa
+286	tufted sofa
+287	Jennifer Taylor tufted sofa
+288	Jennifer Taylor tufted camelback sofa 
+289	Jennifer Taylor tufted camelback sofa cream
+290	
+291	dining table
+292	Armen Living dining table
+293	rustic oak Armen Living dining table
+294	
+295	sofa chair
+296	mid century sofa chair
+297	mid century blue sofa chair
+298	
+299	nailhead trim
+300	nailhead dining chair
+301	nailhead trim linen dining chair
+302	
+303	bar stool
+304	adjustable bar stool
+305	 Home Chic adjustable bar stool
+306	
+307	chandelier
+308	abbyson chandelier 
+309	Abbyson orb chandelier 
+310	
+311	end table
+312	3 drawer end table
+313	industrial 3 drawer end table
+314	
+315	loveseat
+316	Abbyson Living loveseat
+317	Abbyson Living velvet loveseat
+318	Abbyson Living velvet chesterfield loveseat
+319	
+320	bed
+321	platform bed
+322	upholstered platform bed 
+323	Abbyson upholstered platform bed 
+324	dark blue Abbyson upholstered platform bed 
+325	
+326	floor lamp
+327	anthony california floor lamp
+328	anthony california antique brass floor lamp
+329	bag
+330	FENDI tote
+331	FENDI tote bag
+332	backpacks
+333	black backpacks
+334	leather bucket bag
+335	leopard print bag
+336	black quilted leather bag
+337	alexander mcqueen knuckle clutch
+338	Monogramme leather shoulder bag
+339	beaded tote bag
+340	suitcase
+341	leather belt bag
+342	printed cardholder
+343	textured-leather wallet
+344	metallic bag
+345	Floral print midi dress
+346	white gown
+347	little black dress
+348	red mini dress
+349	red dress
+350	burgundy dress
+351	Off Shoulder Dress
+352	metallic maxi dress
+353	animal print dress
+354	leopard print dress
+355	lace dress
+356	shirt dress
+357	striped knee length dress
+358	full sleeve dress
+359	belted dress
+360	embroidered tulle dress
+361	polka dot mini dress
+362	green wrap dress
+363	satin gown
+364	needle & thread black dress
+365	flared dress
+366	neutral silk-satin  dress
+367	MINI WRAP DRESS
+368	sequinned mini dress
+369	midi georgette dress
+370	black one shoulder maxi dress
+371	 bandage dress
+372	Bodycon dress
+373	Sheath Dress
+374	Alice Mccall midi dress
+375	cotton strapless dress
+376	yellow dress
+377	short sleeve dresses
+378	crepe de chine midi floral print dress
+379	embellished crepe dress
+380	reem acra maxi dress
+381	Halterneck Dress
+382	A-LINE
+383	COLUMN
+384	alexander mcqueen midi dress
+385	Denim dress
+386	Oversized denim jacket
+387	cropped denim jacket
+388	denim overalls
+389	black High-rise skinny jeans
+390	light wash wide leg jeans
+391	light wash wide leg jeans
+392	light wash  denim pants
+393	distressed denim shorts
+394	distressed blue denim shorts
+395	denim mini skirts
+396	printed  jumpsuits
+397	printed full length jumpsuits
+398	one shoulder jumpsuit
+399	red one shoulder jumpsuit
+400	wrap playsuit
+401	belted playsuit
+402	polka dot blouse
+403	Brandon Maxwell Blouse
+404	black full sleeve blouse
+405	turtleneck  bodysuit
+406	gucci bodysuit
+407	full sleeve crop top
+408	cropped sweatshirt
+409	NORMA KAMALI bralette
+410	checked shirt
+411	brunello cucinelli shirt
+412	white T-shirt 
+413	T-shirt
+414	cotton-jersey T-shirt
+415	printed camisole
+416	black ribbed tank
+417	off-the-shoulder printed  top 
+418	Gucci sweatshirt
+419	fringed top
+420	polo shirt
+421	short sleeved top
+422	sleeveless peplum tops
+423	yellow cashmere sweater
+424	VALENTINO sweater
+425	Cable knit cardigan
+426	turtle neck sweater
+427	turtleneck sweater
+428	one shoulder sweater
+429	frayed high-rise skinny jeans
+430	printed skinny jeans
+431	 boyfriend jeans
+432	FRAME dark wash jeans
+433	cropped straight leg jeans
+434	 black jeans
+435	cargo pants
+436	printed palazzo pants
+437	cotton tapered pants
+438	chinti & parker track pants
+439	JOSEPH leather pants
+440	stirrup leggings
+441	cropped wide leg pants
+442	pinstriped pants
+443	blue straight leg pants
+444	leather mini skirt
+445	ISABEL MARANT Skirt
+446	ruffled yellow skirt
+447	checked wrap skirt
+448	sequinned midi skirt
+449	Phillip Lim asymmetric skirt
+450	solid black maxi skirt
+451	pleated tulle skirt
+452	TOM FORD pencil skirt
+453	Bassike shorts
+454	twill shorts
+455	distressed denim shorts
+456	belted shorts
+457	knee length shorts
+458	Miguelina Shorts
+459	printed shorts
+460	short shorts
+461	solid black shorts
+462	bomber jackets
+463	vegan leather jacket
+464	leather biker jacket
+465	quilted shell down jacket
+466	MONCLER jacket
+467	red blazer
+468	black  blazer
+469	double breasted blazer
+470	silk kimono
+471	balmain jacket
+472	PU Coats
+473	animal print coat
+474	faux fur coats
+475	parka
+476	hooded coat
+477	TEMPLA quilted shell coat
+478	Mesh leggings
+479	Blue sports bra
+480	Ganni bikinis
+481	floralprint onepiece swimsuit
+482	floral print onepiece swimsuit
+483	striped swimsuit
+484	Bandeau bikini top
+485	green  bikini top
+486	one shoulder bikini top
+487	animal print bikini bottoms
+488	bikini briefs
+489	red bikini bottoms
+490	Zimmermann Bikinis
+491	coverups
+492	Beach dresses
+493	bracelet
+494	MONICA VINADER bracelet
+495	OSCAR DE LA RENTA  bracelet
+496	rose gold cuff bracelet
+497	rose gold cuff 
+498	hoop earrings
+499	gold-plated ear cuff
+500	diamond earrings
+501	Suzanne Kalan earrings
+502	clip earrings
+503	fringed earring
+504	"ANITA KO 
+Necklaces"
+505	gold and pearl choker
+506	multistone necklace
+507	ISABEL MARANT gold necklace 
+508	sterling silver necklace
+509	layered necklace
+510	zirconia ring
+511	two finger ring
+512	18-karat gold ring
+513	SPINELLI KILCOLLIN  rings
+514	Pomellato Nudo rings
+515	Gucci watch
+516	gold and alligator watch
+517	chopard watch
+518	Cartier tank watch
+519	body chain
+520	Anklet
+521	crystal brooch
+522	Gold hair slides
+523	Hair slides
+524	sleeveless bodysuit
+525	multiway bras
+526	strapless bra
+527	Chantelle black bra
+528	lace underwired bra
+529	Calvin Klein briefs
+530	red thong
+531	high waisted briefs
+532	lingerie slip
+533	lingerie chemise
+534	 stockings
+535	black tights
+536	 socks
+537	pajama top
+538	pajama pants
+539	pajama set
+540	printed robe
+541	nightdress
+542	sleeveless nightdress
+543	SPANX  bodysuit
+544	Shapewear
+545	 leather belt
+546	GUCCI leather belt
+547	skinny leather belt
+548	braided leather belt
+549	ISABEL MARANT belts
+550	printed leather gloves
+551	fingerless gloves
+552	straw hat
+553	beanie
+554	fedora
+555	bucket hats
+556	visors
+557	Balenciaga baseball cap
+558	Clyde sunhat
+559	cat eye sunglasses
+560	Prada  sunglasses
+561	Alaia acetate sunglasses
+562	gold tone sunglasses 
+563	aviators
+564	round frame optical glasses
+565	FENDI optical glasses
+566	printed scarves
+567	intarsia wool scarf
+568	Chloe wallet
+569	Valentino pouch
+570	Silk hair ties
+571	headband
+572	hairclips
+573	ANYA HINDMARCH cosmetics case
+574	MANOLO BLAHNIK pumps
+575	slingback pumps
+576	leather mules
+577	kitten heel shoes
+578	brown boots
+579	suede over the knee boots
+580	Gianvito Rossi boots
+581	sequinned heels
+582	black boots
+583	Jimmy Choo flats
+584	animal print loafers
+585	platform espadrilles
+586	metallic heels
+587	scalloped ballet flats
+588	mesh sneakers
+589	leather platform sneakers
+590	knit  hightop sneakers
+591	suede wedge sandals
+592	red heels
+593	leopard print sock boots
+594	Aquazzura high heels
+595	CULT GAIA leather sandals
+596	pink satin pumps
+597	gold sandals
+598	LOVESHACKFANCY KIDS dress
+599	girls polo shirts
+600	Chloe kids cardigan
+601	kids pants
+602	kids sandals
+603	girls sandals
+604	kids sneakers
+605	boys shoes
+606	boys pants
+607	kids sneakers
+608	boys hoodies
+609	onesie
+610	baby shoes
+611	baby top and shorts set
+612	Baby dress

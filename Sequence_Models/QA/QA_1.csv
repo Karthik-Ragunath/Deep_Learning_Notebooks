@@ -1,0 +1,351 @@
+Category,Sub-category,Query,Result ,Issue,Identifier,After Tweaking,,
+bags,bags,bag,good,,,No change,,
+bags,bags,Fendi handbag,good,,,mix of results,,
+bags,bags,Fendi beige handbag,ok,2 results slightly off - check solr,,mix of results,,
+bags,bags,backpacks,"BAD
+","Results include fanny packs, because of title and client ontology. ",,No change,,
+bags,bags,black backpacks,"BAD
+","Results include fanny packs, because of title and client ontology. ",,No change,,
+bags,bags,blue bucket bag,"BAD
+No results",bucket bag should be aded to phrase dictionary,M,"BAD, mix of results",,
+bags,bags,bucketbag,ok,Many bad results due to wrong tags,WT,first page results are okay,,
+bags,bags,crocodile print bag,"BAD
+No results","No pattern tag for bags
+Description has a lot of relevant information",D,No change,,
+bags,bags,animal print bag,"BAD
+No results","No pattern tag for bags
+Description has a lot of relevant information",D,No change,,
+bags,bags,tote bag,"BAD
+No results",tag exists as totes,T,"GOOD
+1 wrong result in 1st page.",,
+bags,bags,totes,"BAD
+No results",tag exists as totes,T,"GOOD
+1 wrong result in 1st page.",,
+bags,bags,FURLA pochette,,"Present on website, but not in the catalogue ",,,,
+bags,bags,red CELINE crossbody ,good,,,"Okay
+1 tan result listed",,
+bags,bags,Coach work bag,good,find synoyms for work bags,,no change,,
+bags,bags,pink coccinelle bum bag,"BAD
+","Results include backpacks, because of title and client ontology. ",,no change,,
+bags,bags,belt bag,"BAD
+no result",add synonym,M,no change,,
+bags,bags,Burberry duffel bag,good,,,no change,,
+bags,bags,faux leather wallet,"BAD
+No results",faux leather data present in description,D,no change,,
+bags,bags,pale pink wallet,good,,,no change,,
+dresses,,Floral print midi dress,"BAD
+no result",floral midi dress gives results,M,no change,,
+dresses,,red sheath dress,good,,,no change,,
+dresses,,little black dress,,title not found,,no change,,
+dresses,,yellow short sleeve mini dress,good,1 bad result cuz of wrong tags,WT,no change,,
+dresses,,burgundy crewneck dress,good,,,no change,,
+dresses,,crew neck dress,"BAD
+",J.Crew dresses shown,M,no change,,
+dresses,,Off Shoulder Dress,OK,wrong neckline tags,WT,BAD 9 wrong tags,,
+dresses,,A line dress,"BAD
+no result",no results,T,no change,,
+dresses,,animal print dress,good,,,2 wrong results,,
+dresses,,leopard print dress,"BAD
+no result",,O,no change,,
+dresses,,lace dress,OK,,,no change,,
+dresses,,shirt dress,"BAD
+no result",,Y,no change,,
+dresses,, striped knee length dress,OK,,,no change,,
+dresses,,full sleeve dress,good,,,OK 3 wrong tags. has the ordering changed?,,
+dresses,,shift sack dress,good,"shift dress, shiftsack dress needs to be added",,no change,,
+dresses,,maison margiela long dress,good,maxi doesnt work,,"2 bad results, knee length, 3/4th ",,
+dresses,,polka dot mini dress,good,1 wrong length tag,WT,no change,,
+dresses,,needle & thread black dress,"BAD
+",mix of categories from needle & thread,O,no change,,
+dresses,,flared dress,good,,,OK some wrong tags,,
+dresses,, DRESS,good,,,no change,,
+dresses,,red off shoulder midi dress,good,,,OK 2 wong tags,,
+dresses,,alberta ferreti dress,good,,,no result,,
+dresses,,black maxi dress,"BAD
+no results",maxi doesnt work,M,OK 4 wrong tags,,
+dresses,,Bodycon dress,,not sure of tag exists,,no change,,
+dresses,,Alice Mccall midi dress,good,,,"OK , some wrong tags",,
+dresses,,strapless dress,"BAD
+no results",tag exists,T,"BAD, many wrong tags",,
+dresses,,yellow dress,good,,,no change,,
+dresses,,reem acra maxi dress,"BAD
+no results",,M,good,,
+dresses,,Halterneck Dress,,not sure of tag exists,Y,no change,,
+dresses,,a line v neck dress,"BAD
+no results",,T,no change,,
+dresses,,alexander mcqueen midi dress,good,,,no change,,
+dresses,,Denim dress,,present on website,,no change,,
+Outerwear,Jacket,military green jacket,good,,,no change,,
+Outerwear,Jacket,TOMMY HILFIGER blue jacket,"BAD
+no results",title exists,T,no change,,
+Outerwear,Jacket,armani leather jacket,ok,Mix of results as tags are incorrect,WT,BAD,,
+jumpsuits,jumpsuits,one shoulder jumpsuit,ok,2 wrong tags,WT,4 wrong tags,,
+Bottomwear,jeans,black High-rise skinny jeans,"BAD
+No results","high-rise, mid-rise etc info is present in description",D,no change,,
+Bottomwear,jeans,black skinny jeans,good,1 wrong tag,WT,no change,,
+Bottomwear,jeans,distressed ankle length jeans,good,2 wrong tag,WT,no change,,
+Bottomwear,jeans,light wash wide leg jeans,good,,,bad results have changed.,,
+Bottomwear,jeans,bootcut jeans,good,,,2 wrong results,,
+Bottomwear,shorts,distressed denim shorts,"BAD
+no results",Design detail tags are absent (Jeans had distressed as a tag),O,no change,,
+Bottomwear,shorts,khaki shorts,ok,Khaki swim brief listed.,,"BAD, YELLOW SHORTS, KHAKI SWIM BRIEF ALSO LISTED",,
+Bottomwear,shorts,denim mini skirts,"BAD
+","many non-denim skirts listed, even though tags are correct",T,"BAD
+no denim skirt listed",,
+jumpsuits,,printed  jumpsuits,good,,,good,,
+jumpsuits,,red one shoulder jumpsuit,ok,some wrong tags,WT,no change,,
+jumpsuits,,short sleeve playsuit,"BAD
+no results","No result as msd_ontology is jumpsuits, product_type is jumpsuits and jumpsuits dont have a length tag.",Y,no change,,
+jumpsuits,,romper,"BAD
+no results","No result as msd_ontology is jumpsuits, product_type is jumpsuits and jumpsuits dont have a length tag.",Y,no change,,
+Topwear,Blouses,polka dot blouse,good,,,no change,,
+Topwear,Blouses,Brandon Maxwell Blouse,good,,,no change,,
+Topwear,Blouses,black full sleeve blouse,good,,,no change,,
+Topwear,Bodysuit,short sleeve bodysuit,ok,1 wrong tag,WT,no change,,
+Topwear,Bodysuit,diesel bodysuit,good,,,no change,,
+Topwear,Crop Top,full sleeve crop top,,cropped tops present in live site,,no change,,
+Topwear,Crop Top,NORMA KAMALI bralette,,no bralettes on live site,,no change,,
+Topwear,Shirt,checked shirt,good,,,"ok, 4 blouses listed",,
+Topwear,Shirt,brunello cucinelli shirt,ok,mix of shirts and blouses. Tags are correct,,no change,,
+Topwear,T-shirt,white T-shirt ,good,,,no change,,
+Topwear,T-shirt,Tshirt,good,,,no change,,
+,,white graphic print tshirt,bad no result,white graphic tshirt works.,M,no change,,
+,,MOSCHINO white graphic tshirt,good,,,no change,,
+Topwear,T-shirt,scoop neck T-shirt,ok,some wrong neckline tags,WT,good,,
+Topwear,Tanks & Camis,printed camisole,,not present on live site,,,,
+Topwear,Tanks & Camis,black ribbed tank,,not present on live site,,,,
+Topwear,Blouses,off shoulder printed  top ,good,,,no change,,
+Topwear,sweatshirt,Gucci sweatshirt,good,,,"bad, 2 wrong tags",,
+Topwear,,long sleeve green blouse,good,1 wrong sleeve tag,WT,no change,,
+Topwear,,polo shirt,ok,"some wrong results from ""polo ralph lauren"" brand",O,BAD many wrong tags,,
+Topwear,,halter neck top,good,2 wrong neckline tags,WT,BAD no results,,
+Topwear,,MARNI tube top,ok,1 wrong tag,WT,no change,,
+Topwear,Sweater,yellow DIOR sweater,good,,,no change,,
+Topwear,Sweater,VALENTINO sweater,good,,,"BAD, many wrong tags",,
+,,maison margiela beige argyle jumper,good,,,no change,,
+Topwear,Cardigan,white full sleeve cardigan,good,,,no change,,
+Topwear,blouse,full sleeve silk blouse,"BAD
+No results",description has material info,D,no change,,fixed if material is indexed
+Topwear,blouse,crepe blouse,"BAD
+No results",description has material info,D,no change,,
+Topwear,Sweater,turtle neck sweater,bad no results,,,no change,,
+Topwear,Sweater,turtleneck sweater,bad no results,Title exists,,no change,,
+Topwear,Sweater,cashmere sweater,"BAD
+No results",description has cashmere info,D,Good ,,
+Topwear,Sweater,one shoulder sweater,ok,2 wrong tags,WT,4 wrong tags,,
+Bottomwear,Jeans,printed skinny jeans,ok,2 bad rsults due to wrong title,,"BAD mix of leggings, casual trousers",,
+Bottomwear,Jeans,FRAME dark wash jeans,good,,,,,
+Bottomwear,Jeans,straight leg jeans,"BAD
+",gives only 1 result when compared to straight jeans,M,,,
+Bottomwear,Jeans, black jeans,"BAD
+","mix of categories shown as brands with ""Jeans"" in their name are also listed as results",O,,,
+Bottomwear,PANTS,cargo pants,ok,some bad results due to wrong tags,WT,,,
+Bottomwear,PANTS,printed palazzo pants,ok,,,,,
+Bottomwear,PANTS,grey checked wide leg pants,good,,,,,
+Bottomwear,PANTS,givenchy leather pants,"BAD
+No results","leather is not a tag, info could be availale in description",D,faux leather info was there in description only,,
+Bottomwear,PANTS,brown slim fit trousers,ok,some wong fit tags,WT,,,
+Bottomwear,PANTS,floral print leggings,"BAD
+no results",floral leggings gives results,M,,,
+Bottomwear,PANTS,striped pants,"BAD
+",many wrong pattern tags,WT,,,
+Bottomwear,PANTS,blue straight leg pants,"BAD
+no results",blue straight pants gives results,M,,,
+Bottomwear,Skirts,checked mini skirt,good,,,,,
+Bottomwear,Skirts,ISABEL MARANT Skirt,good,,,,,
+Bottomwear,Skirts,printed yellow skirt,good,1 wrong tag,WT,,,
+Bottomwear,Skirts,checked midi skirt,ok,some wong pattern tags,WT,,,
+Bottomwear,Skirts,sequinned skirt,"BAD
+no results",sequinned info is present in description,D,,,
+Bottomwear,Skirts,Bottega Venetta leather skirt,"BAD
+no results",leather info is available in description,D,,,
+Bottomwear,Skirts,solid black maxi skirt,"BAD
+no results","tag is present
+maxi tag is present in auto tags,map long skirt to maxi skirt",T,,,
+Bottomwear,Skirts,retro printed flared skirt,good,1 wrong fit tag,WT,,,
+Bottomwear,Skirts,pencil skirt,,not sure if tag is present,,,,
+Bottomwear,Shorts,Balmain shorts,good,,,,,
+Bottomwear,Shorts,balenciaga white shorts,ok,"blue shorts returned as result, tag is correct",,,,
+Bottomwear,Shorts,knee length shorts,BAD,all length tags - wrong,WT,,,
+Bottomwear,Shorts,Miguelina Shorts,good,,,,,
+Bottomwear,Shorts,printed shorts,ok,"lace tagged as ""print""",,,,
+Bottomwear,Shorts,solid black shorts,good,1 wong tag,WT,,,
+Outerwear,jackets,bomber jackets,"BAD
+no results",tag exists,T,,,
+Outerwear,jackets,vegan leather jacket,,not sure if info is there in description,D,,,
+Outerwear,jackets,leather biker jacket,BAD,4 wrong results (neither biker nor leather),,,,
+Outerwear,jackets,quilted down jacket,"BAD
+no results",map quilted to puffer,M,,,
+Outerwear,jackets,MONCLER jacket,ok,only first seven results were pink,,,,
+Outerwear,jackets,red blazer,good,,,,,
+Outerwear,jackets,printed blazer,good,,,,,
+Outerwear,jackets,armani black blazer,good,,,,,
+Outerwear,,silk kimono,,,,,,
+Outerwear,jackets,balmain tan jacket,BAD,"some coats, which arent even tan listed. A jacket which matches the query was not listed.",T,,,
+Outerwear,Coats,PU Coats,,no result,,,,
+Outerwear,Coats,animal print coat,ok,1 jacket listed,,,,
+Outerwear,Coats,faux fur coats,ok,"some jackets also listed, tags are mostly correct",,,,
+Outerwear,Coats,phillip lim overcoat,ok,2 blazers also listed,,,,
+Outerwear,Coats,hooded coat,BAD,lots of results with jackets,,,,
+Outerwear,Coats,Theory light grey coat,BAD,mix of coats and jackets,,,,
+Active wear,Leggings,nike black leggings,good,,,,,
+Active wear,sports bra,Blue sports bra,good,,,,,
+Swimwear,Bikinis,norma kamali bikini bottom,good,,,,,
+Swimwear,Onepiece,onepiece swimsuit,,"present on the live site, couldnt find in catalogue",,,,
+Swimwear,Onepiece,moschino swimsuit,BAD,includes a coverup and beachh shorts,,,,
+Swimwear,Bikini Top,Bandeau bikini top,"BAD
+no results",no results as bandeau info is only available in description,D,,,
+Swimwear,Bikini Top,green  bikini top,good,,,,,
+Swimwear,Bikini Top,one shoulder bikini top,"BAD
+no results",no results as bandeau info is only available in description,D,,,
+Swimwear,Bikini Bottoms,animal print bikini bottoms,"BAD
+no results",no results as bandeau info is only available in description,D,,,
+Swimwear,Bikini Bottoms,swim briefs,good,,,,,
+Swimwear,Bikini Bottoms,red bikini bottoms,good,,,,,
+Swimwear,coverups,coverups,,can be mapped to beach dresses for Yoox alone.,,,,
+Swimwear,Beach dresses,Beach dresses,good,,,,,
+Jewelery,Bracelet,bracelet,good,,,,,
+Jewelery,Bracelet,tory burch bracelet,good,,,,,
+Jewelery,Bracelet,rose gold cuff bracelet,"BAD
+","none of the results listed are have the ""rose gold"" tag. Tag exists.",T,,,
+Jewelery,Bracelet,gold cuff bracelet,good,,,,,
+Jewelery,Earrings,hoop earrings,"BAD
+",wrong tags,WT,,,
+Jewelery,Earrings,silver ear cuff,,title doesnt exist,,,,
+Jewelery,Earrings,diamond earrings,"BAD
+no results","results returned from autotags, but no mention of diamond in the description",D,,,
+Jewelery,Earrings,maison margiela silver earrings,good,"2 gold earrings shown after 10 results, tags are correct",,,,
+Jewelery,Earrings,stud earrings,ok,,,,,
+Jewelery,Necklaces,lanvin Necklace,good,,,,,
+Jewelery,Necklaces,gold and pearl choker,,no title like choker,,,,
+Jewelery,Necklaces,blue necklace,good,,,,,
+Jewelery,Necklaces,just cavalli gold necklace ,good,,,,,
+Jewelery,Necklaces,sterling silver necklace,good,1 bad result,,,,
+Jewelery,Rings,CHLOE ring,ok,key rings also listed,,,,
+Jewelery,Rings, gold ring,ok,key rings also listed,,,,
+Jewelery,Watch,Gucci watch,good,,,,,
+Jewelery,Watch,versace silver watch,"BAD
+",colors other than silver also shown,,,,
+Jewelery,Anklet,Anklet,,not present in catalogue,,,,
+Jewelery,Brooch,titlee brooch,good,,,,,
+Lingerie,Bodysuit,sleeveless bodysuit,good,,,,,
+Lingerie,Bras,strapless bra,Bad no results,description has info,D,,,
+Lingerie,Bras,calvin klein white bra,ok,"pale pink, neutral, grey bras also listed",,,,
+Lingerie,Bras,purple lace bra,Bad no results,no results as lace info is only available in description,D,,,
+Lingerie,Briefs,Calvin Klein briefs,good,,,,,
+Lingerie,Briefs,red gstring,good,,,,,
+Lingerie,Briefs,BlueBella briefs,good,,,,,
+Lingerie,Briefs,La perla hotpants,good,,,,,
+Lingerie,slip,tommy hilfiger black slip,good,,,,,
+Lingerie,bustier,Carine Gilson bustier,good,,,,,
+Hosiery,Hosiery, stockings,good,,,,,
+Hosiery,Hosiery, Paul Smith socks,good,,,,,
+Lingerie,,stella mcartney vest,good,,,,,
+Sleepwear,Pajamas,pajama top,,,,,,
+Sleepwear,Pajamas,prada sleepwear ,good,,,,,
+Sleepwear,Pajamas,pajama pants,,,,,,
+Sleepwear,Pajamas,pajama set,,,,,,
+Sleepwear,Robe,robe,,,,,,
+Sleepwear,Nightdress,nightdress,good,,,,,
+Sleepwear,Nightdress,sleeveless nightdress,good,,,,,
+Sleepwear,,pink sleeveless undershirt,good,,,,,
+Accessories,Belts, leather belt,"BAD
+no results","description has leather, textured leather etc.",D,,,
+Accessories,Belts,GUCCI belt,good,,,,,
+Accessories,Belts,brown belt,good,,,,,
+Accessories,Belts,ISABEL MARANT belts,good,,,,,
+Accessories,Gloves,black gloves,good,,,,,
+Accessories,Gloves,leather gloves,"BAD
+no results",description has leather info,D,,,
+Accessories,hats,hat,good,,,,,
+Accessories,hats,beanie,"BAD
+no results",hat style tags absent,Y,,,
+Accessories,hats,fedora,"BAD
+no results",hat style tags absent,Y,,,
+Accessories,hats,bucket hats,"BAD
+no results",hat style tags absent,Y,,,
+Accessories,hats,straw hat,"BAD
+no results",hat style tags absent,Y,,,
+Accessories,hats,cap,"BAD
+no results",hat style tags absent,Y,,,
+Accessories,Sunglasses,cat eye sunglasses,"BAD
+no results",description has info,D,,,
+Accessories,Sunglasses,Prada  sunglasses,good,,,,,
+Accessories,Sunglasses,aviators,"BAD
+no results",description has info,D,,,
+Accessories,Sunglasses,round frame sunglasses,"BAD
+no results",description has info,D,,,
+Accessories,Scarves,floral print scarf,"BAD
+no results",description has info,D,,,
+Accessories,Scarves,knitted scarf,"BAD
+no results",description has info,D,,,
+Accessories,Wallet,Chloe wallet,good,,,,,
+Accessories,Pouches,Valentino pouch,good,,,,,
+Footwear,Pumps,givenchy pumps,"BAD
+no results",tag exists,T,"BAD, 8 Wong tags",check if mapping court shoes to pumps will work instead.,
+Footwear,sandals,nude sandals,ok,gives a lot of gold results,,no change,,
+Footwear,sandals,gold sandals,ok,gives a lot of yellow results,,"bad, only 1 gold result",,
+Footwear,Mules,fuschia mules,"BAD
+no results",title exists,T,no change,,
+Footwear,heels,brown stilleto,good,tag exists,T,BAD no result,,
+Footwear,Boots,brown boots,good,,,no change,,
+Footwear,Boots,suede over the knee boots,good,1 wrong tag,WT,BAD no result,,
+Footwear,Boots,Gianvito Rossi boots,good,,,1 wrong result due to wrong tag.,,
+Footwear,heels,peep toe heels,ok,,,"no change, 4 wrong results",,
+Footwear,Boots,black ankle length boots,good,,,no change,,
+Footwear,Flats,Jimmy Choo flats,good,,,BAD . Discuss : heel type: flat,,
+Footwear,Flats,blue loafers,good,,,first page is Okay.,,
+Footwear,Espadrilles,espadrille wedges,"BAD
+no results",tag exists,T,"6 bad results, wrong tags",,
+Footwear,Flats,open toe flat sandals,"BAD
+no results",ballet flats tagged as open toe.,WT,1 wrong tag,,
+Footwear,Sneakers,BALENCIAGA sneakers,good,,,no change,,
+,,BALENCIAGA blue sneakers,"BAD
+no results",tag exists,T,,,
+Footwear,Sneakers,black hightop sneakers,good,1 bad result due to client ontology,,NO CHANGE,,
+Footwear,Wedges,wedge sandals,"BAD
+no results",,Y,Good,,
+Footwear,Heels,red heels,good,,,,,
+Footwear,Boots,combat boots,good,1 bad result - wrong tag,WT,,,
+Footwear,heels,Aquazzura high heels,"BAD
+no results",,Y,,,
+Footwear,heels,Aquazzura stiletto,good,1 bad result - wrong tag,WT,,,
+Footwear,heels,open toe stilleto,good,2 bad result - wrong tag,WT,,,
+Footwear,sandals,CULT GAIA sandals,good,,,,,
+Footwear,Pumps,pink  pumps,"BAD
+no results",,,,,
+Menswear,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+Topwear,Shirt,men BALENCIAGA denim shirt,good,,,,,
+Topwear,Shirt,men BALENCIAGA checked shirt,"BAD
+no results",Tag exists,T,,,
+Topwear,Shirt,men BALENCIAGA red shirt,"BAD
+no results",Tag exists,T,,,
+Topwear,Polos,men ETRO green polo shirt,"BAD
+no results",Tag exists,T,,,
+Topwear,Polos,men ETRO polo shirt,good,,,,,
+Topwear,Tshirts,men solid blue tshirt,,,,,,
+Topwear,Tshirts,men VERSUS VERSACE graphic print tshirt,,,,,,
+Topwear,Tshirts,men OFF WHITE blue full sleeve tshirt,,,,,,
+Topwear,Sweatshirt,men MARNI solid red sweatshirt,,,,,,
+Topwear,Sweatshirt,men LANVIN black hooded sweatshirt,,,,,,
+Topwear,Sweater,men beige jumper,,,,,,
+Topwear,Sweater,men MISSONI colourblock jumper,,,,,,
+Topwear,Sweater,men PRADA Black sleeveless sweater,,,,,,
+Topwear,Sweater,men DIOR HOMME yellow striped turtleneck sweater,,,,,,
+Topwear,Cardigan,men graphic printed cardigan,,,,,,
+Topwear,Cardigan,men Dolce & Gabbana green cardigan,,,,,,
+Bottomwear,Pants,men polka dot dress pants,,,,,,
+Bottomwear,Pants,,,,,,,
+Bottomwear,Pants,,,,,,,
+Bottomwear,Pants,,,,,,,
+Bottomwear,Pants,,,,,,,
+Bottomwear,,,,,,,,
+Bottomwear,,,,,,,,
+Bottomwear,,,,,,,,
+Bottomwear,,,,,,,,
+Bottomwear,,,,,,,,
+Bottomwear,,,,,,,,
+Bottomwear,,,,,,,,

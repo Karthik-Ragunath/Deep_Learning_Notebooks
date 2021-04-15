@@ -1,0 +1,344 @@
+S.No,Category,Sub-category,Query,Result ,Issue,After Changes
+1,bags,bags,bag,good,,
+2,bags,bags,FENDI tote,"OK
+",Footwear pop up after result 11,
+3,bags,bags,FENDI tote bag,"good
+",Footwear pop up only after result 16,
+4,bags,bags,backpacks,good,,
+5,bags,bags,black backpacks,"good
+",Mix of categories pop up from result 17,
+6,bags,bags,leather bucket bag,good,,
+7,bags,bags,leopard print bag,"BAD
+","Mix of categories including clothing, footwear and bags after result 6 (most of which are not leopard print)",good
+8,bags,bags,black quilted leather bag,good,,
+9,bags,bags,alexander mcqueen knuckle clutch,good,Only 4 results shown.,bad
+10,bags,bags,Monogramme leather shoulder bag,"OK
+","Mix of categories(clothing, shoes, bags) pop up from result 12. Seems to have picked up keyword 'leather' instead of 'bag'",no result
+11,bags,bags,beaded tote bag,good,,
+12,bags,bags,suitcase,good,,
+13,bags,bags,leather belt bag,good,,
+14,bags,bags,printed cardholder,good,"Mix of categories(clothing, shoes, bags) pop up from result 20. Seems to have picked up keyword 'printed' instead of 'cardholder'",
+15,bags,bags,textured-leather wallet,good,,
+16,bags,bags,metallic bag,"BAD
+",Only 1 or 2 results match the query. Not at all similar to the results on NAP Website,
+17,dress,,Floral print midi dress,good,,
+18,dress,,white gown,"BAD
+",All relevant results listed waaaay below.,no result
+19,dress,,little black dress,good,One floral printed dress listed.,
+20,dress,,red mini dress,"BAD
+","All relevant results listed waaaay beow, after 13th result",
+21,dress,,red dress,"OK
+",Mix of colors. Better matches listed waay below.,
+22,dress,,burgundy dress,no result,4 results on NAP website,
+23,dress,,Off Shoulder Dress,"OK
+",Sleeveless dresses also listed,
+24,dress,,metallic maxi dress,good,,
+25,dress,,animal print dress,"BAD
+","9 Floral prints, sequinned dresses also listed along with relevant matches.",
+26,dress,,leopard print dress,good,First two results are animal print dresses.,
+27,dress,,lace dress,good,,
+28,dress,,shirt dress,good,,
+29,dress,,striped knee length dress,"OK
+","Maxi, midi and mini dresses listed along with relevant matches.",
+30,dress,,full sleeve dress,good,First option listed is sleeveless,
+31,dress,,belted dress,good,,
+32,dress,,embroidered tulle dress,good,,
+33,dress,,polka dot mini dress,good,"Midi dresses are listed at 14,15, 16 even though relevant matches are available below",
+34,dress,,green wrap dress,good,,
+35,dress,,satin gown,good,,
+36,dress,,needle & thread black dress,good,,no result
+37,dress,,flared dress,good,,
+38,dress,,neutral silk-satin  dress,good,,
+39,dress,,MINI WRAP DRESS,good,,
+40,dress,,sequinned mini dress,good,,
+41,dress,,midi georgette dress,good,,
+42,dress,,black one shoulder maxi dress,good,,
+43,dress,, bandage dress,good,,
+44,dress,,Bodycon dress,no result,107 results on NAP website,
+45,dress,,Sheath Dress,bad,"hairbrush, hair creme along with relevant results",
+46,dress,,Alice Mccall midi dress,good,One maxi dress listed.,no result
+47,dress,,cotton strapless dress,"OK
+","Full sleeves, short sleeves, sleeveless also listed.",
+48,dress,,yellow dress,good,,
+49,dress,,short sleeve dresses,"OK
+",3/4th sleeve dresses also listed.,
+50,dress,,crepe de chine midi floral print dress,good,,
+51,dress,,embellished crepe dress,good,,
+52,dress,,reem acra maxi dress,good,,totally irrelevant bad result
+53,dress,,Halterneck Dress,,,
+54,dress,,A-LINE,"OK
+",Style match should be better,
+55,dress,,COLUMN,"OK
+",Style match should be better,
+56,dress,,alexander mcqueen midi dress,good,,no result
+57,Dress,,Denim dress,good,,
+58,Outerwear,Jacket,Oversized denim jacket,good,,
+59,Outerwear,Jacket,cropped denim jacket,good,,
+60,jumpsuits,jumpsuits,denim overalls,good,,
+61,Bottomwear,jeans,black High-rise skinny jeans,"OK
+",Few dark wash blue jeans also listed.,
+62,Bottomwear,jeans,light wash wide leg jeans,good,,
+63,Bottomwear,jeans,light wash wide leg jeans,bad,Did not detect 'jeans'. All results were wide leg pants,
+64,Bottomwear,jeans,light wash  denim pants,bad,Did not detect 'denim'. All results were pants,
+65,Bottomwear,shorts,distressed denim shorts,good,,
+66,Bottomwear,shorts,distressed blue denim shorts,bad,Blue jeans and sweaters listedfrom result 5,
+67,Bottomwear,shorts,denim mini skirts,good,,
+68,jumpsuits,,printed  jumpsuits,good,,
+69,jumpsuits,full length,printed full length jumpsuits,bad,Mix of categories. Only two jumpsuits listed.,
+70,jumpsuits,,one shoulder jumpsuit,good,,
+71,jumpsuits,,red one shoulder jumpsuit,bad,"First 2 results - perfect match
+3,4, 5 - jumpsuits
+From 6, mix of categories, no jumpsuits.",
+72,jumpsuits,,wrap playsuit,"OK
+","First 4 results - correct
+'wrap' dresses, others listed ",
+73,jumpsuits,,belted playsuit,"OK
+","First 5 results - correct
+'wrap' dresses, others listed ",
+74,TOPS,Blouses,polka dot blouse,good,,
+75,TOPS,Blouses,Brandon Maxwell Blouse,good,,no result
+76,TOPS,Blouses,black full sleeve blouse,good,,
+77,TOPS,Bodysuit,turtleneck  bodysuit,good,"First 12 results - correct
+",
+78,TOPS,Bodysuit,gucci bodysuit,bad,"1,2 - relevant.
+All other results are various Gucci products, not bodysuits",no result
+79,TOPS,Crop Top,full sleeve crop top,good,"Some short sleeve top also listed
+",
+80,TOPS,Crop Top,cropped sweatshirt,good,,
+81,TOPS,Crop Top,NORMA KAMALI bralette,bad,"First 2 results - perfect match
+All other results are other Norma Kamali products, not bralettes",no result
+82,TOPS,Shirt,checked shirt,good,,
+83,TOPS,Shirt,brunello cucinelli shirt,"OK
+","Only 4 correct matches listed. No other results shown.
+",no result
+84,TOPS,T-shirt,white T-shirt ,bad,"Mix of categories incl. shoes,dresses. Only two t-shirts detected.",
+85,TOPS,T-shirt,T-shirt,bad,"Only slightly better than above. 
+has detected products with 'TEE' in the title.",
+86,TOPS,T-shirt,cotton-jersey T-shirt,bad," better than above. 
+More t-shirts present but only a total of 8 results shown. One cotton-jersey dress also detected.",
+87,TOPS,Tanks & Camis,printed camisole,good,One nightdress listed.,
+88,TOPS,Tanks & Camis,black ribbed tank,good,,
+89,TOPS,Blouses,off-the-shoulder printed  top ,"OK
+",Some irrellevant matches also listed,
+90,TOPS,sweatshirt,Gucci sweatshirt,good,,good
+91,TOPS,,fringed top,good,,
+92,TOPS,,polo shirt,good,,
+93,TOPS,,short sleeved top,bad,only one result shown. - Kids top and shorts set.,
+94,TOPS,,sleeveless peplum tops,"OK
+",First ten results are relevant. All others are sleeveless tops not peplum tops.,
+95,TOPS,Sweater,yellow cashmere sweater,good,,
+96,TOPS,Sweater,VALENTINO sweater,good,Only 4 results. Sweaters from other brands not listed.,good
+97,TOPS,Cardigan,Cable knit cardigan,bad,Mix of categories after result 7. 'knit' is the keyword picked up.,
+98,TOPS,Sweater,turtle neck sweater,bad,Mix of categories. No turtle neck listed,
+99,TOPS,Sweater,turtleneck sweater,good,,
+100,TOPS,Sweater,one shoulder sweater,good,One irrelevant result.,
+101,Bottomwear,Jeans,frayed high-rise skinny jeans,"OK
+","First 10 results are good. All three key words picked up. Then, 2 picked up.",
+102,Bottomwear,Jeans,printed skinny jeans,good,2 irreleavant results,
+103,Bottomwear,Jeans, boyfriend jeans,good,,
+104,Bottomwear,Jeans,FRAME dark wash jeans,good,,rinse/ wash - syninym dict
+105,Bottomwear,Jeans,cropped straight leg jeans,good,,
+106,Bottomwear,Jeans, black jeans,good,,
+107,Bottomwear,PANTS,cargo pants,good,,
+108,Bottomwear,PANTS,printed palazzo pants,good,,
+109,Bottomwear,PANTS,cotton tapered pants,good,,
+110,Bottomwear,PANTS,chinti & parker track pants,good,track pants from other brands listed after search query brand results were exhausted.,totally irrelevant bad result
+111,Bottomwear,PANTS,JOSEPH leather pants,good,,no result
+112,Bottomwear,PANTS,stirrup leggings,good,2 irreleavant results,
+113,Bottomwear,PANTS,cropped wide leg pants,good,,
+114,Bottomwear,PANTS,pinstriped pants,good,,
+115,Bottomwear,PANTS,blue straight leg pants,good,,
+116,Bottomwear,Skirts,leather mini skirt,good,,
+117,Bottomwear,Skirts,ISABEL MARANT Skirt,good,,"Okay, skirts from other brands listed"
+118,Bottomwear,Skirts,ruffled yellow skirt,good,Only 9 results listed,
+119,Bottomwear,Skirts,checked wrap skirt,good,,
+120,Bottomwear,Skirts,sequinned midi skirt,good,,
+121,Bottomwear,Skirts,Phillip Lim asymmetric skirt,good,,no result
+122,Bottomwear,Skirts,solid black maxi skirt,good,,
+123,Bottomwear,Skirts,pleated tulle skirt,good,,
+124,Bottomwear,Skirts,TOM FORD pencil skirt,"OK
+",Few irrelevant results listed before relevant matches.,"Okay, skirts from other brands listed"
+125,Bottomwear,Shorts,Bassike shorts,good,Only 4 results. shorts from other brands not listed.,good
+126,Bottomwear,Shorts,twill shorts,good,,
+127,Bottomwear,Shorts,distressed denim shorts,good,,
+128,Bottomwear,Shorts,belted shorts,good,,
+129,Bottomwear,Shorts,knee length shorts,bad,Only one relevant result,
+130,Bottomwear,Shorts,Miguelina Shorts,good,Only 4 results. shorts from other brands not listed.,no result
+131,Bottomwear,Shorts,printed shorts,good,,
+132,Bottomwear,Shorts,short shorts,good,3 Irrelevant results,
+133,Bottomwear,Shorts,solid black shorts,good,,
+134,Outerwear,jackets,bomber jackets,good,,
+135,Outerwear,jackets,vegan leather jacket,bad,Coats and other irrelevant results also listed.,
+136,Outerwear,jackets,leather biker jacket,good,,
+137,Outerwear,jackets,quilted shell down jacket,"OK
+",quilted coats listed in between jackets,
+138,Outerwear,jackets,MONCLER jacket,good,,good
+139,Outerwear,jackets,red blazer,bad,Most relevant matches listed waaaay below.,
+140,Outerwear,jackets,black  blazer,"OK
+",Several relevant matches listed way below.,
+141,Outerwear,jackets,double breasted blazer,good,,
+142,Outerwear,,silk kimono,good,,
+143,Outerwear,jackets,balmain jacket,"OK
+","Mix of jackets, coats and blazers from Balmain","OK
+Some coats listed before relevant matches"
+144,Outerwear,Coats,PU Coats,good,All relevant only listed. Fallback to other coats should be added.,
+145,Outerwear,Coats,animal print coat,bad,"4 results shown, of which only two are coats.",
+146,Outerwear,Coats,faux fur coats,"OK
+","Mix of jackets, coats ",
+147,Outerwear,Coats,parka,good,,
+148,Outerwear,Coats,hooded coat,good,One jacket listed.,
+149,Outerwear,Coats,TEMPLA quilted shell coat,bad,Results should be better,no result
+150,Active wear,Leggings,Mesh leggings,good,,
+151,Active wear,Coats,Blue sports bra,"OK
+",irrelevant categories after first 12 results.,
+152,Swimwear,Bikinis,Ganni bikinis,good,,
+153,Swimwear,Onepiece,floralprint onepiece swimsuit,good,,
+154,Swimwear,Onepiece,floral print onepiece swimsuit,"OK
+",Print' picked up as the keyword. Results included all kinds of prints. Most relevant matches were waaay below.,
+155,Swimwear,Onepiece,striped swimsuit,"OK
+",Many irrelevant results from the brand 'Solid &Striped' picked up. Many relevant results listed way below.,
+156,Swimwear,Bikini Top,Bandeau bikini top,good,,
+157,Swimwear,Bikini Top,green  bikini top,good,Only 10 results shown.,
+158,Swimwear,Bikini Top,one shoulder bikini top,good,,
+159,Swimwear,Bikini Bottoms,animal print bikini bottoms,bad,"Mix of categories (bikini tops, bottoms, dresses , tops etc) listed. No relevant result.",
+160,Swimwear,Bikini Bottoms,bikini briefs,good,,
+161,Swimwear,Bikini Bottoms,red bikini bottoms,"OK
+",Many relevant red bikini bottoms listed way below.,
+162,Swimwear,Bikinis,Zimmermann Bikinis,good,,good
+163,Swimwear,coverups,coverups,bad,Irrelevant results.,
+164,Swimwear,Beach dresses,Beach dresses,bad,Irrelevant result. (Only one shown),
+165,Jewelery,Bracelet,bracelet,good,,
+166,Jewelery,Bracelet,MONICA VINADER bracelet,good,,no result
+167,Jewelery,Bracelet,OSCAR DE LA RENTA  bracelet,"OK
+","Mix of clothing, bracelets & other categories after result 8",no result
+168,Jewelery,Bracelet,rose gold cuff bracelet,bad,"Mix of categories. (earrings, skincare, chains)",
+169,Jewelery,Bracelet,rose gold cuff ,good,First result is a rose gold earring,
+170,Jewelery,Earrings,hoop earrings,good,,
+171,Jewelery,Earrings,gold-plated ear cuff,bad,"Only two relevant results. Mix of categories. (earrings, bracelets, chains)
+Keyword picked up - 'gold plated'",
+172,Jewelery,Earrings,diamond earrings,good,,
+173,Jewelery,Earrings,Suzanne Kalan earrings,good,,no result
+174,Jewelery,Earrings,clip earrings,good,,
+175,Jewelery,Earrings,fringed earring,good,,
+176,Jewelery,Necklaces,"ANITA KO 
+Necklaces","OK
+",Other products from the same brand shown after necklaces,no result
+177,Jewelery,Necklaces,gold and pearl choker,good,,
+178,Jewelery,Necklaces,multistone necklace,good,,
+179,Jewelery,Necklaces,ISABEL MARANT gold necklace ,bad,Mix of categories after relevant results,no result
+180,Jewelery,Necklaces,sterling silver necklace,"OK
+",Mix of categories after result 12,
+181,Jewelery,Necklaces,layered necklace,bad,Mix of categories after 5th result,
+182,Jewelery,Rings,zirconia ring,bad,"Mix of categories after 1st result including candles, phone covers",
+183,Jewelery,Rings,two finger ring,bad,"Mix of categories after 2nd result including clothing, other jewellery",
+184,Jewelery,Rings,18-karat gold ring,good,,
+185,Jewelery,Rings,SPINELLI KILCOLLIN  rings,"OK
+",Mix of categories after result 8,no result
+186,Jewelery,Rings,Pomellato Nudo rings,good,Mix of categories after result 12,good
+187,Jewelery,Watch,Gucci watch,good,Mix of categories after result 13,Mix of categories with relevant results waay below
+188,Jewelery,Watch,gold and alligator watch,good,,
+189,Jewelery,Watch,chopard watch,"OK
+",Mix of categories after result 11,Mix of categories with relevant results waay below
+190,Jewelery,Watch,Cartier tank watch,bad,Mix of categories after 7th result including tank tops and skincare,no result
+191,Jewelery,Body Chain,body chain,good,,
+192,Jewelery,Anklet,Anklet,good,,
+193,Jewelery,Brooch,crystal brooch,good,,
+194,Jewelery,Hair slides,Gold hair slides,good,,
+195,Jewelery,Hair slides,Hair slides,bad,"Mix of categories, hair products, shoes also listed.",
+196,Lingerie,Bodysuit,sleeveless bodysuit,good,,
+197,Lingerie,Bras,multiway bras,good,,
+198,Lingerie,Bras,strapless bra,good,,
+199,Lingerie,Bras,Chantelle black bra,bad,"Mix of categories, all results black. ",good
+200,Lingerie,Bras,lace underwired bra,good,,
+201,Lingerie,Briefs,Calvin Klein briefs,good,,no result
+202,Lingerie,Briefs,red thong,"OK
+","Mix of categories, including thong bodysuits",
+203,Lingerie,Briefs,high waisted briefs,bad,Mix of categories after 5th result including skincare,
+204,Lingerie,slip,lingerie slip,good,,
+205,Lingerie,chemise,lingerie chemise,good,,
+206,Hosiery,Hosiery, stockings,good,,
+207,Hosiery,Hosiery,black tights,good,,
+208,Hosiery,Hosiery, socks,bad,Many Sock boots also listed,
+209,Sleepwear,Pajamas,pajama top,good,,
+210,Sleepwear,Pajamas,pajama pants,good,,
+211,Sleepwear,Pajamas,pajama set,,,
+212,Sleepwear,Robe,printed robe,good,,
+213,Sleepwear,Nightdress,nightdress,,,
+214,Sleepwear,Nightdress,sleeveless nightdress,bad,No relevant result,
+215,Shapewear,,SPANX  bodysuit,good,,no result
+216,Shapewear,,Shapewear,no result,,
+217,Accessories,Belts, leather belt,good,,
+218,Accessories,Belts,GUCCI leather belt,good,Mix of categories after result 13,no result
+219,Accessories,Belts,skinny leather belt,bad,No belt detected.,
+220,Accessories,Belts,braided leather belt,"OK
+",Mix of categories after result 7,
+221,Accessories,Belts,ISABEL MARANT belts,good,,no result
+222,Accessories,Gloves,printed leather gloves,good,12th result is a glove leather sandals,
+223,Accessories,Gloves,fingerless gloves,good,Only 4 results listed.,
+224,Accessories,hats,straw hat,good,,
+225,Accessories,hats,beanie,good,,
+226,Accessories,hats,fedora,good,12th result is a hat brush,
+227,Accessories,hats,bucket hats,good,,
+228,Accessories,hats,visors,good,,
+229,Accessories,hats,Balenciaga baseball cap,"OK
+",Mix of irrelevant categories after result 9,
+230,Accessories,hats,Clyde sunhat,good,Only 4 results listed. (all relevant),
+231,Accessories,Sunglasses,cat eye sunglasses,good,,
+232,Accessories,Sunglasses,Prada  sunglasses,good,Only 8 results listed. (all relevant),
+233,Accessories,Sunglasses,Alaia acetate sunglasses,good,,
+234,Accessories,Sunglasses,gold tone sunglasses ,good,Two sunglass chains also listed.,
+235,Accessories,Sunglasses,aviators,good,One gown with avaiator in the title listed.,
+236,Accessories,Sunglasses,round frame optical glasses,good,,
+237,Accessories,Sunglasses,FENDI optical glasses,"OK
+",Mix of categories after result 9,
+238,Accessories,Scarves,printed scarves,good,,
+239,Accessories,Scarves,intarsia wool scarf,good,,
+240,Accessories,Wallet,Chloe wallet,good,Mix of categories after result 12,
+241,Accessories,Pouches,Valentino pouch,"OK
+",Mix of irrelevant Valentino products after result 7,
+242,Accessories,Hair Accessories,Silk hair ties,"OK
+","Mix of categories after result 11
+Silk, hair - keywords",
+243,Accessories,Hair Accessories,headband,good,,
+244,Accessories,Hair Accessories,hairclips,good,,
+245,Accessories,Beauty Cases ,ANYA HINDMARCH cosmetics case,good,,
+246,Footwear,Pumps,MANOLO BLAHNIK pumps,good,8 Relevant results alone listed,
+247,Footwear,Pumps,slingback pumps,good,,
+248,Footwear,Mules,leather mules,good,,
+249,Footwear,heels,kitten heel shoes,good,,
+250,Footwear,Boots,brown boots,bad,"Color detection is poor. Brand called 'MOON BOOT' is detected, because 'boot' is repeated in title, brand name .",
+251,Footwear,Boots,suede over the knee boots,good,,
+252,Footwear,Boots,Gianvito Rossi boots,good,,
+253,Footwear,heels,sequinned heels,good,12 good results,
+254,Footwear,Boots,black boots,good,,
+255,Footwear,Flats,Jimmy Choo flats,good,,
+256,Footwear,Flats,animal print loafers,bad,Other category products with animal prints detected mostly.,
+257,Footwear,Espadrilles,platform espadrilles,good,,
+258,Footwear,heels,metallic heels,good,,
+259,Footwear,Flats,scalloped ballet flats,good,,
+260,Footwear,Sneakers,mesh sneakers,good,,
+261,Footwear,Sneakers,leather platform sneakers,good,,
+262,Footwear,Sneakers,knit  hightop sneakers,good,,
+263,Footwear,Wedges,suede wedge sandals,good,,
+264,Footwear,Heels,red heels,bad,Color detection is poor. many relevant matches listed way below,
+265,Footwear,Boots,leopard print sock boots,good,One sock also listed.,
+266,Footwear,heels,Aquazzura high heels,good,,
+267,Footwear,sandals,CULT GAIA leather sandals,good,,
+268,Footwear,Pumps,pink satin pumps,good,,
+269,Footwear,Flats,gold sandals,bad,"Only 1 result detected, yellow sandal",
+270,Kidswear,Girls,LOVESHACKFANCY KIDS dress,"OK
+",Womenswear after result 9,many items in these categories listed under Unisex as well
+271,Kidswear,Girls,girls polo shirts,no result,,
+272,Kidswear,Girls,Chloe kids cardigan,bad,Only 3 results relevant,
+273,Kidswear,Girls,kids pants,good,,
+274,Kidswear,Girls,kids sandals,good,,
+275,Kidswear,Girls,girls sandals,no result,,
+276,Kidswear,Girls,kids sneakers,good,,
+277,Kidswear,Boys,boys shoes,no result,,
+278,Kidswear,Boys,boys pants,bad,"Only 1 result detected, irrelevant. Detected because of brand name.",
+279,Kidswear,Boys,kids sneakers,bad,Includes both girls and boys sneakers,
+280,Kidswear,Boys,boys hoodies,bad,Results - womenswear hoodies,
+281,Kidswear,Baby ,onesie,good,,
+282,Kidswear,Baby ,baby shoes,no result,,
+283,Kidswear,Baby ,baby top and shorts set,good,Only one result detected,
+284,Kidswear,Baby ,Baby dress,bad,1 result detected - irrelevant,
